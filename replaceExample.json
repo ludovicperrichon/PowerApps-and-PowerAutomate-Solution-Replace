@@ -1,27 +1,23 @@
 [
 	{
-		"old": "https://totalworkplace.sharepoint.com/sites/SiteExempleLPE",
-		"new": "https://totalworkplace.sharepoint.com/sites/SiteExemple2LPE"
+		"old": "https://MY OLD SHAREPOINT URL",
+		"new": "https://MY NEW SHAREPOINT URL"
 	},
 	{
-		"old": "SiteExempleLPE",
-		"new": "SiteExemple2LPE"
+		"old": "SiteExempleTitle",
+		"new": "SiteExempleTitle2"
 	},
 	{
-		"old": "ExempleLpeFlow",
-		"new": "ExempleLpeFlow2"
+		"old": "ExemplFlowTitle",
+		"new": "ExemplFlowTitle2"
 	},
 	{
-		"old": "4a464bbf-3c46-4159-bb4f-3200b6ffb607",
-		"new": "3af9d33a-3368-4388-bc10-393aac116f0a"
+		"old": "00000000-0000-0000-0000-000000000000",
+		"new": "11111111-1111-1111-1111-111111111111"
 	},
 	{
-		"old": "6c284c25-2c3e-438a-8c01-139879648b61",
-		"new": "895c68ae-b63e-4568-aca3-34d35e8db0d6"
-	},
-	{
-		"old": "0x0100B2A5B6D866E65247B6E53E24EA56A02A003CC896494249004DAFA38A5FCF1F944D",
-		"new": "0x0100E9D18A03D24E2A4FB87CABB6D70BCDCE00A8B83554F83ADF4EB456ABCADABD78E0"
+		"old": "0x0100111111111111111111111111111111111111111111111111111111111111111111",
+		"new": "0x0100222222222222222222222222222222222222222222222222222222222222222222"
 	}
 ]
 
